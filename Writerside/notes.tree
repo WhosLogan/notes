@@ -7,4 +7,7 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Virtual-Machines.md">
+        <toc-element topic="Anti-Anti-VM.md"/>
+    </toc-element>
 </instance-profile>
