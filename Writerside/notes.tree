@@ -10,6 +10,10 @@
     <toc-element topic="Virtual-Machines.md">
         <toc-element topic="Anti-Anti-VM.md">
             <toc-element topic="Anti-VM-Methods.md"/>
+            <toc-element topic="VMWare.md">
+                <toc-element topic="Preparing-the-Host.md"/>
+                <toc-element topic="Creating-a-VM.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
 </instance-profile>
